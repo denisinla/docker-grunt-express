@@ -9,7 +9,7 @@ This app contains a [Grunt](http://gruntjs.com/) configuration which will
 ## Prerequisites
 
 - Install [Docker](https://www.docker.com/) on your system.
-- Install DockerMachine
+- Install [DockerMachine](https://docs.docker.com/machine/install-machine/)
 - Install [Docker Compose](http://docs.docker.com/compose/) on your system.
 
 ## Setup
