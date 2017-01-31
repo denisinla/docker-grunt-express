@@ -1,4 +1,4 @@
-FROM node:0.10.38
+FROM node:7.4
 
 RUN apt-get update -qq && apt-get install -y build-essential
 RUN apt-get install -y libssl-dev ruby
